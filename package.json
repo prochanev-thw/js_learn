@@ -1,0 +1,19 @@
+{
+  "name": "js_learn",
+  "version": "1.0.0",
+  "description": "learn project",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prochanev-thw/js_learn.git"
+  },
+  "author": "prochanev <prochanev-twh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prochanev-thw/js_learn/issues"
+  },
+  "homepage": "https://github.com/prochanev-thw/js_learn#readme"
+}
